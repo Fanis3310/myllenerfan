@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myllenerfan/static/css/main.02f00a53.css",
+    "main.js": "/myllenerfan/static/js/main.e96dcdf9.js",
+    "static/media/portfolio-img2.png": "/myllenerfan/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/site-bg2.jpg": "/myllenerfan/static/media/site-bg2.fbc7c14a0176e29b142e.jpg",
+    "static/media/portfolio-img3.png": "/myllenerfan/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/portfolio-img1.png": "/myllenerfan/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/aboutbreak.png": "/myllenerfan/static/media/aboutbreak.22f1dba04555ab0f6cae.png",
+    "static/media/services5.png": "/myllenerfan/static/media/services5.bb5382af6efc6a512732.png",
+    "static/media/Terpo Tattoo Final V.2.png": "/myllenerfan/static/media/Terpo Tattoo Final V.2.be190bac2d739c718abf.png",
+    "index.html": "/myllenerfan/index.html",
+    "main.02f00a53.css.map": "/myllenerfan/static/css/main.02f00a53.css.map",
+    "main.e96dcdf9.js.map": "/myllenerfan/static/js/main.e96dcdf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f00a53.css",
+    "static/js/main.e96dcdf9.js"
+  ]
+}
